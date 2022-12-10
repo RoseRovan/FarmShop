@@ -24,12 +24,12 @@ The following technologies were used to develop the site
 3. javascript
 4. CSS
 5. HTML
-   ## Support and contact details
+ ## Support and contact details
    Should you run into a problem or face a bug, please contact the developer:@Rosemary Kimani through; greatfarmers@gmail.com rosemary.kimani@student.moringaschool.com
 
    You may support the development of this app via PayPal: rosmerkim@gmail.com
 
-   ## License
+ ## License
 MIT Licensed Copyright (c) {2022} {Rosemary Kimani}
 
 
