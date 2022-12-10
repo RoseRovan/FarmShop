@@ -1,24 +1,7 @@
-# README
+# FARM SHOP
+{An app that allows farmer to farm records. Keep track of items in the store}, {December, 2022}
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+By {Rosemary Kimani}
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Description
+Farm Shop is an application designed to assist farmers in record keeping. Farmers can easily add, remove and update store items. Many farmers find it hectic to take farm stock regularly. They rarely detect theft/losses in farm as record keeping is tedious. Farmshop aims at making farmers' work easier.
